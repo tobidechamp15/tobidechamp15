@@ -1,4 +1,4 @@
-# Hello World!, I'm Oluwatobiloba, a German Web Developer 👋🏼
+# Hello World!, I'm Oluwatobiloba, a Software Engineer 👋🏼
 
 # 💻 Tech Stack
 
